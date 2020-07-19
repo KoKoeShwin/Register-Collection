@@ -3,6 +3,9 @@
 #include <string.h>
 #include <time.h>
 
+// Written by Mr Koe Shwin
+// Contact to koeshwin00@gmail.com if you found any error in this source code
+
 struct Person{
     char nrc[50];
     char name[20];
